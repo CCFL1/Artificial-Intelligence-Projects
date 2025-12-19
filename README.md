@@ -2,7 +2,7 @@
 
 Post Graduate Program in Artifical Intelligence and Machine Learning: October 2025 - May 2026
 
-Capstone Project 1:
+UTA Capstone Project 1:
 
   Objective: Perform an exploratory data analysis and provide actionable insights for a food aggregrator company to get insight into the demand of different restaurants and cuisines, which will help them 
   enhance their customer experience and improve the business.
