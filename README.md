@@ -6,7 +6,7 @@ The Post Graduate Program in Artificial Intelligence and Machine Learning (PGP-A
 
 This comprehensive program is designed for working professionals seeking to build advanced capabilities in data science, machine learning, and AI-driven decision-making. It blends strong theoretical foundations with practical application through live online classes, real-world projects, case studies, and capstone assignments.
 
-Key Focus Areas
+Key Focus Areas:
 
   Python for Data Science
 
@@ -18,12 +18,12 @@ Key Focus Areas
 
   Deep Learning & Neural Networks
 
+  Natural Language Processing and Generative AI
+
+  Computer Vision Image Processing
+
   Model Deployment & Business Applications
 
 Overall, the program equips professionals with both technical expertise and business acumen, enabling them to bridge the gap between data science and strategic decision-making.
 
-Project 1: Food Aggregator Company Analysis
 
-Project 2: Personal Loan Campaign
-
-Project 3: VISA Approval Process
