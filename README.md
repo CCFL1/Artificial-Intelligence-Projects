@@ -3,5 +3,7 @@
 Post Graduate Program in Artifical Intelligence and Machine Learning: October 2025 - May 2026
 
 Project 1: Food Aggregator Company Analysis
+
 Project 2: Personal Loan Campaign
+
 Project 3: VISA Approval Process
